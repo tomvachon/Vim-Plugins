@@ -10,7 +10,6 @@ set autoindent
 filetype plugin indent on
 :colorscheme elflord
 :set laststatus=2
-autocmd vimenter * if !argc() | NERDTree | endif
 map <C-t> :NERDTreeToggle<CR>
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 set statusline=%t[%{strlen(&fenc)?&fenc:'none'},%{&ff}]%h%m%r%y%=%c,%l/%L\ %P
