@@ -28,9 +28,9 @@
 [submodule "bundle/undotree"]
 	path = bundle/undotree
   url = git://github.com/mbbill/undotree.git
-[submodule "bundle/git-gutter"]
-	path = bundle/git-gutter
-  url = git://github.com/akiomik/git-gutter-vim.git
+[submodule "bundle/git-vim-gutter"]
+	path = bundle/git-vim-gutter
+  url = https://github.com/akiomik/git-gutter-vim.git
 [submodule "bundle/vim-rvm"]
 	path = bundle/vim-rvm
   url = https://github.com/tpope/vim-rvm.git
