@@ -10,9 +10,30 @@
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
   url = https://github.com/tpope/vim-commentary.git
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
-  url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
   url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/Buffet.vim"]
+	path = bundle/Buffet.vim
+  url = git://github.com/sandeepcr529/Buffet.vim.git
+[submodule "bundle/LogViewer"]
+	path = bundle/LogViewer
+  url = git://github.com/vim-scripts/LogViewer.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+  url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/splice"]
+	path = bundle/splice
+  url = git://github.com/sjl/splice.vim.git
+[submodule "bundle/undotree"]
+	path = bundle/undotree
+  url = git://github.com/mbbill/undotree.git
+[submodule "bundle/git-gutter"]
+	path = bundle/git-gutter
+  url = git://github.com/akiomik/git-gutter-vim.git
+[submodule "bundle/vim-rvm"]
+	path = bundle/vim-rvm
+  url = https://github.com/tpope/vim-rvm.git
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+  url = https://github.com/tpope/vim-sensible.git
